@@ -1,4 +1,4 @@
 ---
-title: Github Blog Space WIP
+title: Welcome to my blog
 ---
-<p> pardon the dust. more blog posts from my repos coming soon.</p>
+
