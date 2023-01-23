@@ -1,4 +1,2 @@
----
-title: Github Blog Space WIP
----
-<p> pardon the dust. more blog posts from my repos coming soon.</p>
+
+<p> too much coffee. not enough sleep. more organization and automation to win back some sleep and to create a space for learning and sharing. enjoy!</p>
